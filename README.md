@@ -2,7 +2,7 @@
 
 leaflet.css for [styled-components](https://styled-components.com/).
 
-The original `leaflet.css` is pulled from [CDN](https://unpkg.com/leaflet@1.3.4/dist/leaflet.css), and parsed into styled ready format.
+The original `leaflet.css` is pulled from [CDN](https://unpkg.com/leaflet@1.4.0/dist/leaflet.css), and parsed into styled ready format.
 
 
 ## Usage
